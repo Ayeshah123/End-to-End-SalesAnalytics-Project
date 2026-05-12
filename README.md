@@ -72,18 +72,18 @@ A relational database was created with proper structure and relationships:
 - Which product subcategory generates the most profit in each continent?
 
 Techniques used:
-- JOIN operations
-- GROUP BY aggregations
-- Ranking functions
-- Filtering and conditional logic
-
----
-
-## Key Insights
-- Identified top 3 best-selling products
-- Found highest profit-generating countries
-- Evaluated store-level performance differences
-- Analyzed overall sales and profit distribution
+## ⚙️ Techniques Used
+- JOIN operations  
+- GROUP BY aggregations  
+- Ranking functions  
+- Filtering and conditional logic  
+- Window functions  
+- Common Table Expressions (CTEs)  
+- Views  
+- Subqueries (if applicable)  
+- CASE WHEN logic for conditional analysis  
+- NULL handling and data validation    
+- Advanced SQL analytical functions and business logic  
 
 ---
 

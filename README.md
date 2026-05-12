@@ -73,13 +73,12 @@ A relational database was created with proper structure and relationships:
 
 ## Techniques Used
 - JOIN operations  
-- GROUP BY aggregations  
 - Ranking functions  
 - Filtering and conditional logic  
 - Window functions  
 - Common Table Expressions (CTEs)  
 - Views  
-- Subqueries (if applicable)  
+- Subqueries
 - CASE WHEN logic for conditional analysis  
 - NULL handling and data validation    
 - Advanced SQL analytical functions and business logic  

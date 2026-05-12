@@ -71,8 +71,7 @@ A relational database was created with proper structure and relationships:
 - Which are the top 3 countries with the highest profit in each continent?
 - Which product subcategory generates the most profit in each continent?
 
-Techniques used:
-## ⚙️ Techniques Used
+## Techniques Used
 - JOIN operations  
 - GROUP BY aggregations  
 - Ranking functions  
@@ -84,20 +83,6 @@ Techniques used:
 - CASE WHEN logic for conditional analysis  
 - NULL handling and data validation    
 - Advanced SQL analytical functions and business logic  
-
----
-
-## Project Structure
-Retail-SQL-Analytics-Project/
-│
-├── data/
-│   └── cleaned_dataset.xlsx
-│
-├── sql/
-│   ├── schema_and_data_validation.sql
-│   └── business_analysis_queries.sql
-│
-└── README.md
 
 ---
 

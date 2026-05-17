@@ -3,16 +3,16 @@
 ---
 
 ## Project Overview
-This project focuses on analyzing a retail sales dataset using Excel, SQL Server and Power BI. The goal is to clean and validate the data, design a structured database, and perform Power BI to generate meaningful insights.
+This project focuses on analyzing a retail sales dataset using Microsoft Excel, SQL Server, and Power BI. The objective was to clean and validate the data, design a structured relational database, and perform business analysis through interactive dashboards to generate meaningful insights.
 
-The project demonstrates a complete data workflow including data preparation, database design, business analysis and visualization.
+The project demonstrates a complete end-to-end data analytics workflow, including data preparation, database design, business analysis, and data visualization.
 
 ---
 
 ## Tools & Technologies
 - Microsoft Excel (Data Cleaning & Preprocessing)
 - SQL Server (Database Design)
-- Power BI
+- Power BI – Data Modeling & Visualization
 
 ---
 
@@ -49,9 +49,11 @@ The dataset is based on a public retail dataset and contains multiple tables suc
 ---
 
 ## 🗄️ Power BI
-- Data Cleaning  
-- Data Modeling 
-- Data Visualization  
+- Data Cleaning using Power Query
+- Data Modeling and relationship building
+- KPI creation and DAX calculations
+- Interactive dashboard development
+- Data visualization and trend analysis 
 
 ---
 

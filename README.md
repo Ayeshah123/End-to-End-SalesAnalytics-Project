@@ -1,17 +1,18 @@
-# Retail Sales Data Analysis (Excel + SQL Project)
+# Retail Sales Data Analysis (Excel + SQL + PowerBI)
 
 ---
 
 ## Project Overview
-This project focuses on analyzing a retail sales dataset using Excel and SQL Server. The goal is to clean and validate the data, design a structured database, and perform business analysis using SQL queries to generate meaningful insights.
+This project focuses on analyzing a retail sales dataset using Excel, SQL Server and Power BI. The goal is to clean and validate the data, design a structured database, and perform Power BI to generate meaningful insights.
 
-The project demonstrates a complete data workflow including data preparation, database design, and business analysis.
+The project demonstrates a complete data workflow including data preparation, database design, business analysis and visualization.
 
 ---
 
 ## Tools & Technologies
 - Microsoft Excel (Data Cleaning & Preprocessing)
-- SQL Server (Database Design & Analysis)
+- SQL Server (Database Design)
+- Power BI
 
 ---
 
@@ -47,48 +48,18 @@ The dataset is based on a public retail dataset and contains multiple tables suc
 
 ---
 
-## 🔍 SQL Business Analysis
-
-The following business questions were analyzed using SQL to generate actionable business insights from the retail dataset.
-
----
-
-### Overall Business Performance
-- What is the overall profit margin of the business?
-- How is the overall profitability of the business performing?
-- How does profit vary by year and month?
-- What is the quarterly profit trend over time?
-- How does profit trend across years and quarters?
-- What are the total revenue and total profit for each year, and what is the year-over-year percentage change in revenue and profit?
+## 🗄️ Power BI
+- Data Cleaning  
+- Data Modeling 
+- Data Visualization  
 
 ---
 
-### Product-Level Analysis
-- How do profit and margin vary by product class?
-- How do profit and margin vary by product category across months?
-- Which product categories perform best and worst?
-- What are the top 10 products by profit margin?
-- How does profit margin vary by product category each year?
+## 🔍 Business Questions
 
----
-
-### Geography-Based Profit Analysis
-- Which are the top 3 countries with the highest profit in each continent?
-- Which product subcategory generates the most profit in each continent?
-
----
-
-## Techniques Used
-- JOIN operations  
-- Ranking functions  
-- Filtering and conditional logic  
-- Window functions  
-- Common Table Expressions (CTEs)  
-- Views  
-- Subqueries  
-- CASE WHEN logic for conditional analysis  
-- NULL handling and data validation  
-- Advanced SQL analytical functions and business logic  
+- How is the overall buisness performance from 2011-2013?
+- Which products and product categories are contributing the most to business losses?
+- Which geographic regions, countries, and stores are generating the highest losses?
 
 ---
 
